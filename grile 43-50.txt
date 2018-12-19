@@ -1,0 +1,17 @@
+Varianta 43 II 4
+Programul afiseaza"inmatica"
+Varianta 44 II 4
+programul afiseaza succesoarele literelor din cuvant
+"jogp"
+Varianta 45 II 4
+0 -1 -2 -3 -4
+1  0 -1 -2 -3
+2  1  0 -1 -2
+3  2  1  0 -1
+4  3  2  1  0
+Suma elementelor de pe diagonala secundara este 0
+Varianta 46 II 2
+Raspuns: a
+Varianta 47 II 2
+Raspuns: b
+
