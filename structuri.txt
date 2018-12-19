@@ -1,0 +1,90 @@
+Subiectul II-Structuri
+Varianta 1
+3)
+C.x=(A.x+B.x) /2;
+C.y=(A.y+B.y)/2;
+Varianta 2
+2)c
+Varianta 3
+3)
+f.x=	f1.x+f2.x
+f.y	f1.y  f2.y
+
+f.x=f1.x*f2.y+f2.x*f1.y
+f.x=f1.y*f2.y
+
+Varianta 5
+2)d
+Varianta 9
+1)a
+Varianta 10
+1)a
+Varianta 16
+2)a
+Varianta 17
+2)b
+Varianta 18
+2)a
+Varianta 19
+4)
+a.y==b.y
+Varianta 20
+2)b
+Varianta 21
+3)ev.data_nasterii.an=1990;
+Varianta 22
+2)a
+Varianta 23
+4)
+100 de puncte adica 300 de numere intregi
+R:100
+Varianta 27
+3)H.x=	F.x+G.x
+H.y	F.y  G.y
+
+H.x=F.x*G.y+G.x*F.y
+H.x=F.y*G.y;
+Varianta 28
+3)
+strct masina{
+char macar[20];
+int anul_fabricatiei;
+}x;
+Varianta 33
+3)
+strct cerc
+{
+int abs,ord;
+float raza;
+}x;
+Varianta 37
+1)d
+Varianta 47
+4)
+f.a %k==0 && f. b%k==0
+Varianta 48
+4)
+sqrt(a.y*a.y+a.x*a.x);
+Varianta 49
+3)
+(x.med1+x.med2)/2;
+Varianta 51
+1)b
+Varianta 52
+1)a
+Varianta 55
+1)c
+Varianta 56
+1)c
+Varianta 57
+1)c
+Varianta 58
+1)
+
+
+Varianta 71)
+4)
+if(e1.nota>=elev2.nota)
+  cout<<elev1.nota
+else
+  cout<<elev2.nota
